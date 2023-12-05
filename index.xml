@@ -15,5 +15,16 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Resume</title>
+      <link>http://thepaulstella.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thepaulstella.com/resume/</guid>
+      <description>Paul Stella Senior Software Engineer Location: Kalamazoo, Michigan 49009
+Email: thepaulstella@gmail.com
+Professional Summary With a wealth of experience as a Senior Software Engineer, I bring a dynamic blend of technical prowess, innovative problem-solving, and a commitment to transformative solutions in the tech industry. My professional journey is marked by a deep engagement with complex technical challenges across various domains, specializing in developing microservices, enhancing data pipelines, and managing critical ETL services.</description>
+    </item>
+    
   </channel>
 </rss>
