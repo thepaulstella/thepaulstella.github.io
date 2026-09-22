@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>About Me on Paul A. Stella II</title>
-    <link>http://thepaulstella.com/</link>
-    <description>Recent content in About Me on Paul A. Stella II</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://thepaulstella.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://thepaulstella.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thepaulstella.com/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>http://thepaulstella.com/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thepaulstella.com/resume/</guid>
-      <description>Paul Stella Senior Software Engineer Location: Kalamazoo, Michigan 49009
-Email: thepaulstella@gmail.com
-Professional Summary With a wealth of experience as a Senior Software Engineer, I bring a dynamic blend of technical prowess, innovative problem-solving, and a commitment to transformative solutions in the tech industry. My professional journey is marked by a deep engagement with complex technical challenges across various domains, specializing in developing microservices, enhancing data pipelines, and managing critical ETL services.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>About Me on Paul A. Stella II</title>
+		<link>http://thepaulstella.com/</link>
+		<description>Recent content in About Me on Paul A. Stella II</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://thepaulstella.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://thepaulstella.com/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://thepaulstella.com/about/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Resume</title>
+				<link>http://thepaulstella.com/resume/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://thepaulstella.com/resume/</guid>
+				<description>&lt;h1 id=&#34;paul-stella&#34;&gt;Paul Stella&lt;/h1&gt;&#xA;&lt;h3 id=&#34;staff-software-engineer&#34;&gt;Staff Software Engineer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Kalamazoo, MI&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:thepaulstella@gmail.com&#34;&gt;thepaulstella@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Staff Software Engineer with 12+ years of experience across distributed systems, cross-platform desktop applications, real-time media, and cloud infrastructure. Current work spans Go backend services, Electron and Vue applications, browser media and audio APIs, AWS infrastructure, and billing and tax systems, with ownership extending from design and implementation through release and production diagnostics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Go, TypeScript, JavaScript, Python, Ruby, SQL, Bash, C#, Scala&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
